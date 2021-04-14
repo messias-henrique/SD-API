@@ -60,19 +60,9 @@
     },
     {
       "id": 2,
-      "titulo": "Produtividade Máxima com o VS Code",
-      "url": "https://www.udemy.com/truques-vscode/"
-    },
-    {
-      "id": 3,
-      "titulo": "Entendendo o ES7/ES8",
-      "url": "https://www.codeprestige.com.br/cursos/es7-8"
-    },
-    {
-      "id": 4,
-      "titulo": "React 16 Definitivo",
-      "img": "http://verbras.com.br/media/VERLATEX_2_GChG05N.png",
-      "link": "http://verbras.com.br/produtos/vertex-acrilico-fosco"
+      "titulo": "Standard Acrílico Fosco",
+      "img": "http://verbras.com.br/media/STANDARD_FOSCO_18l.png",
+      "link": "http://verbras.com.br/produtos/pop-acrilico-fosco/"
     }
   ]
 }
