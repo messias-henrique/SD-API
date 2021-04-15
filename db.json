@@ -1,57 +1,5 @@
 {
-  "cursos": [
-    {
-      "id": 1,
-      "titulo": "Entendendo o ES6",
-      "url": "https://www.codeprestige.com.br/cursos/es6"
-    },
-    {
-      "id": 2,
-      "titulo": "Produtividade Máxima com o VS Code",
-      "url": "https://www.udemy.com/truques-vscode/"
-    },
-    {
-      "id": 3,
-      "titulo": "Entendendo o ES7/ES8",
-      "url": "https://www.codeprestige.com.br/cursos/es7-8"
-    },
-    {
-      "id": 4,
-      "titulo": "React 16 Definitivo",
-      "url": "https://www.udemy.com/react-16/"
-    }
-  ],
-  "alunos": [
-    {
-      "id": 1,
-      "nome": "Marcela da Silva",
-      "curso": 1
-    },
-    {
-      "id": 2,
-      "nome": "José Luiz Felipe",
-      "curso": 2
-    },
-    {
-      "id": 3,
-      "nome": "Paulo Rogério",
-      "curso": 3
-    },
-    {
-      "id": 4,
-      "nome": "Felipe da Cunha",
-      "curso": 1
-    },
-    {
-      "id": 5,
-      "nome": "Luiza Cardoso Pereira",
-      "curso": 1
-    }
-  ],
-  "empresa": {
-    "nome": "Code Prestige"
-  },
-  "tintas": [
+  "tintasParede": [
     {
       "id": 1,
       "titulo": "Vertex Acrílico Fosco",
@@ -69,6 +17,26 @@
       "titulo": "Vertex Semibrilho",
       "img": "http://verbras.com.br/media/xSEMIBRILHO.png.pagespeed.ic.XvNKl3VfkI.png",
       "link": "http://verbras.com.br/produtos/vertex-semibrilho/"
+    }
+  ],
+  "tintasMetalMadeira": [
+    {
+      "id": 1,
+      "titulo": "Esmalte Secagem Rápida",
+      "img": "http://verbras.com.br/media/COPAL_36L_1_1.png",
+      "link": "http://verbras.com.br/produtos/esmalte-secagem-rapida/"
+    },
+    {
+      "id": 2,
+      "titulo": "Esmalte Extra Rápido Premium",
+      "img": "http://verbras.com.br/media/xESMLATE_EXTRARRAPIDO1.png.pagespeed.ic.tSZt9GLJdT.png",
+      "link": "http://verbras.com.br/produtos/vertex-esmalte-premium-extra-rapido/"
+    },
+    {
+      "id": 3,
+      "titulo": "Esmalte Base Água Premium",
+      "img": "http://verbras.com.br/media/xESMALTE_BASE_AGUA.png.pagespeed.ic.9kVlpN3_Pm.png",
+      "link": "http://verbras.com.br/produtos/esmalte-base-agua-premium/"
     }
   ]
 }
