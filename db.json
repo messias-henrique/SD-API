@@ -17,6 +17,42 @@
       "titulo": "Vertex Semibrilho",
       "img": "http://verbras.com.br/media/xSEMIBRILHO.png.pagespeed.ic.XvNKl3VfkI.png",
       "link": "http://verbras.com.br/produtos/vertex-semibrilho/"
+    },
+    {
+      "id": 4,
+      "titulo": "Vercryl Premium",
+      "img": "http://verbras.com.br/media/VERCRYL_2_I4nuh5y.png",
+      "link": "http://verbras.com.br/produtos/vercryl-premium/"
+    },
+    {
+      "id": 5,
+      "titulo": "Toque Suave Premium",
+      "img": "http://verbras.com.br/media/xTOQUE_SUAVE.png.pagespeed.ic.SRNFcSuEZP.png",
+      "link": "http://verbras.com.br/produtos/toque-suave/"
+    },
+    {
+      "id": 6,
+      "titulo": "Super Verlatex Premium",
+      "img": "http://verbras.com.br/media/xVERLATEX_36_OK.png.pagespeed.ic.2vig4tKoRi.png",
+      "link": "http://verbras.com.br/produtos/verlatex-premium/"
+    },
+    {
+      "id": 7,
+      "titulo": "Cimentados e Pisos Premium",
+      "img": "http://verbras.com.br/media/xCIMENTADOS_36L_0t6ZK81.png.pagespeed.ic.8qiD0biefE.png",
+      "link": "http://verbras.com.br/produtos/cimentados-e-pisos/"
+    },
+    {
+      "id": 8,
+      "titulo": "Gesso e Drywall",
+      "img": "http://verbras.com.br/media/xGESSO.png.pagespeed.ic.7KzpTaRIGU.png",
+      "link": "http://verbras.com.br/produtos/tinta-para-gesso/"
+    },
+    {
+      "id": 9,
+      "titulo": "Verniz Acrílico",
+      "img": "http://verbras.com.br/media/xVERNIZ_ACRILICO_18L_uwr3017.png.pagespeed.ic.OtBDLGVh4Q.png",
+      "link": "http://verbras.com.br/produtos/verniz-acrilico/"
     }
   ],
   "tintasMetalMadeira": [
@@ -28,13 +64,13 @@
     },
     {
       "id": 2,
-      "titulo": "Esmalte Extra Rápido",
+      "titulo": "Esmalte Extra Rápido Premium",
       "img": "http://verbras.com.br/media/xESMLATE_EXTRARRAPIDO1.png.pagespeed.ic.tSZt9GLJdT.png",
       "link": "http://verbras.com.br/produtos/vertex-esmalte-premium-extra-rapido/"
     },
     {
       "id": 3,
-      "titulo": "Esmalte Base Água",
+      "titulo": "Esmalte Base Água Premium",
       "img": "http://verbras.com.br/media/xESMALTE_BASE_AGUA.png.pagespeed.ic.9kVlpN3_Pm.png",
       "link": "http://verbras.com.br/produtos/esmalte-base-agua-premium/"
     }
