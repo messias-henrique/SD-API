@@ -151,5 +151,27 @@
       "img": "http://verbras.com.br/media/COMPLEMENTOS_1_Dw6LHVR.png",
       "link": "http://verbras.com.br/produtos/zarcao/"
     }
+  ],
+  "vernizes": [
+    {
+      "titulo": "Verniz Copal",
+      "img": "http://verbras.com.br/media/COPAL_1.png",
+      "link": "http://verbras.com.br/produtos/verniz-copal/"
+    },
+    {
+      "titulo": "Verniz Flash",
+      "img": "http://verbras.com.br/media/FLASH_1.png",
+      "link": "http://verbras.com.br/produtos/verniz-flash/"
+    },
+    {
+      "titulo": "Verniz Triplo Filtro Solar",
+      "img": "http://verbras.com.br/media/xverniz_triplo.png.pagespeed.ic.SmyRtM_dwH.png",
+      "link": "http://verbras.com.br/produtos/verniz-triplo-filtro-solar/"
+    },
+    {
+      "titulo": "Verniz Acrílico",
+      "img": "http://verbras.com.br/media/xVERNIZ_ACRILICO_18L_uwr3017.png.pagespeed.ic.OtBDLGVh4Q.png",
+      "link": "http://verbras.com.br/produtos/verniz-acrilico/"
+    }
   ]
 }
