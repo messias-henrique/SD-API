@@ -100,5 +100,85 @@
       "img": "http://verbras.com.br/media/TEXTURA_QUARZO_2.png",
       "link": "http://verbras.com.br/produtos/textura-com-quartzo/"
     }
+  ],
+  "complementos": [
+    {
+      "id": 1,
+      "titulo": "Massa Corrida",
+      "img": "http://verbras.com.br/media/MASSA_CORRIDA_1.png",
+      "link": "http://verbras.com.br/produtos/massa-corrida/"
+    },
+    {
+      "id": 2,
+      "titulo": "Massa Acrílica",
+      "img": "http://verbras.com.br/media/MASSA_ACRILICA_eFM2DJA.png",
+      "link": "http://verbras.com.br/produtos/massa-acrilica/"
+    },
+    {
+      "id": 3,
+      "titulo": "Selador Acrílico",
+      "img": "http://verbras.com.br/media/xSELADOR.png.pagespeed.ic.Efe-oaaGWD.png",
+      "link": "http://verbras.com.br/produtos/selador-acrilico/"
+    },
+    {
+      "id": 4,
+      "titulo": "Telha & Cerâmica",
+      "img": "http://verbras.com.br/media/xTELHA_18.png.pagespeed.ic.wyRkJpWtNo.png",
+      "link": "http://verbras.com.br/produtos/impermeabilizante-telha/"
+    },
+    {
+      "id": 5,
+      "titulo": "Verbrilho",
+      "img": "http://verbras.com.br/media/xVERBRILHP_18.png.pagespeed.ic.GHyAGHAEh3.png",
+      "link": "http://verbras.com.br/produtos/verbrilho/"
+    },
+    {
+      "id": 6,
+      "titulo": "SelaFácil",
+      "img": "http://verbras.com.br/media/xSELAFACIL.png.pagespeed.ic.nLLCssGV10.png",
+      "link": "http://verbras.com.br/produtos/selafacil/"
+    },
+    {
+      "id": 7,
+      "titulo": "Fundo para Galvanizados",
+      "img": "http://verbras.com.br/media/xGALVANIZADOS.png.pagespeed.ic.ulIbwmBf_9.png",
+      "link": "http://verbras.com.br/produtos/fundo-para-galvanizado/"
+    },
+    {
+      "id": 8,
+      "titulo": "Fundo Branco Universal",
+      "img": "http://verbras.com.br/media/FUNDO_UNIVERSAL_36L_1_2.png",
+      "link": "http://verbras.com.br/produtos/fundo-branco-universal/"
+    },
+    {
+      "id": 9,
+      "titulo": "Massa para Madeira",
+      "img": "http://verbras.com.br/media/xCOMPLEMENTOS.png.pagespeed.ic.2IOcJf_l2w.png",
+      "link": "http://verbras.com.br/produtos/massa-para-madeira/"
+    },
+    {
+      "id": 10,
+      "titulo": "Fundo Preparador de Paredes",
+      "img": "http://verbras.com.br/media/COMPLEMENTOS_1_LuCTssb.png",
+      "link": "http://verbras.com.br/produtos/fundo-preparador-de-paredes/"
+    },
+    {
+      "id": 11,
+      "titulo": "Fundo Branco Fosco",
+      "img": "http://verbras.com.br/media/COMPLEMENTOS_1_0dMb5VT.png",
+      "link": "http://verbras.com.br/produtos/fundo-branco-fosco/"
+    },
+    {
+      "id": 12,
+      "titulo": "Ferrobras",
+      "img": "http://verbras.com.br/media/COMPLEMENTOS_1.png",
+      "link": "http://verbras.com.br/produtos/ferrobras/"
+    },
+    {
+      "id": 13,
+      "titulo": "Zarcão",
+      "img": "http://verbras.com.br/media/COMPLEMENTOS_1_Dw6LHVR.png",
+      "link": "http://verbras.com.br/produtos/zarcao/"
+    }
   ]
 }
