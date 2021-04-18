@@ -1,55 +1,46 @@
 {
   "tintasParede": [
     {
-      "id": 1,
       "titulo": "Vertex Acrílico Fosco",
       "img": "http://verbras.com.br/media/VERLATEX_2_GChG05N.png",
       "link": "http://verbras.com.br/produtos/vertex-acrilico-fosco"
     },
     {
-      "id": 2,
       "titulo": "Standard Acrílico Fosco",
       "img": "http://verbras.com.br/media/STANDARD_FOSCO_18l.png",
       "link": "http://verbras.com.br/produtos/pop-acrilico-fosco/"
     },
     {
-      "id": 3,
       "titulo": "Vertex Semibrilho",
       "img": "http://verbras.com.br/media/xSEMIBRILHO.png.pagespeed.ic.XvNKl3VfkI.png",
       "link": "http://verbras.com.br/produtos/vertex-semibrilho/"
     },
     {
-      "id": 4,
       "titulo": "Vercryl Premium",
       "img": "http://verbras.com.br/media/VERCRYL_2_I4nuh5y.png",
       "link": "http://verbras.com.br/produtos/vercryl-premium/"
     },
     {
-      "id": 5,
       "titulo": "Toque Suave Premium",
       "img": "http://verbras.com.br/media/xTOQUE_SUAVE.png.pagespeed.ic.SRNFcSuEZP.png",
       "link": "http://verbras.com.br/produtos/toque-suave/"
     },
     {
-      "id": 6,
       "titulo": "Super Verlatex Premium",
       "img": "http://verbras.com.br/media/xVERLATEX_36_OK.png.pagespeed.ic.2vig4tKoRi.png",
       "link": "http://verbras.com.br/produtos/verlatex-premium/"
     },
     {
-      "id": 7,
       "titulo": "Cimentados e Pisos Premium",
       "img": "http://verbras.com.br/media/xCIMENTADOS_36L_0t6ZK81.png.pagespeed.ic.8qiD0biefE.png",
       "link": "http://verbras.com.br/produtos/cimentados-e-pisos/"
     },
     {
-      "id": 8,
       "titulo": "Gesso e Drywall",
       "img": "http://verbras.com.br/media/xGESSO.png.pagespeed.ic.7KzpTaRIGU.png",
       "link": "http://verbras.com.br/produtos/tinta-para-gesso/"
     },
     {
-      "id": 9,
       "titulo": "Verniz Acrílico",
       "img": "http://verbras.com.br/media/xVERNIZ_ACRILICO_18L_uwr3017.png.pagespeed.ic.OtBDLGVh4Q.png",
       "link": "http://verbras.com.br/produtos/verniz-acrilico/"
@@ -57,19 +48,16 @@
   ],
   "tintasMetalMadeira": [
     {
-      "id": 1,
       "titulo": "Esmalte Secagem Rápida",
       "img": "http://verbras.com.br/media/COPAL_36L_1_1.png",
       "link": "http://verbras.com.br/produtos/esmalte-secagem-rapida/"
     },
     {
-      "id": 2,
       "titulo": "Esmalte Extra Rápido",
       "img": "http://verbras.com.br/media/xESMLATE_EXTRARRAPIDO1.png.pagespeed.ic.tSZt9GLJdT.png",
       "link": "http://verbras.com.br/produtos/vertex-esmalte-premium-extra-rapido/"
     },
     {
-      "id": 3,
       "titulo": "Esmalte Base Água",
       "img": "http://verbras.com.br/media/xESMALTE_BASE_AGUA.png.pagespeed.ic.9kVlpN3_Pm.png",
       "link": "http://verbras.com.br/produtos/esmalte-base-agua-premium/"
@@ -77,25 +65,21 @@
   ],
   "texturas": [
     {
-      "id": 1,
       "titulo": "Textura Interna",
       "img": "http://verbras.com.br/media/TEXTURA_INTERNA_1_xMlQ4Tu.png",
       "link": "http://verbras.com.br/produtos/textura-interna/"
     },
     {
-      "id": 2,
       "titulo": "Textura Externa",
       "img": "http://verbras.com.br/media/TEXTURA_EXTERNA_1.png",
       "link": "http://verbras.com.br/produtos/textura-externa/"
     },
     {
-      "id": 3,
       "titulo": "Textura Nobre",
       "img": "http://verbras.com.br/media/TEXTURA_NOBRE_2_iXlOd1j.png",
       "link": "http://verbras.com.br/produtos/textura-nobre/"
     },
     {
-      "id": 4,
       "titulo": "Textura com Quartzo",
       "img": "http://verbras.com.br/media/TEXTURA_QUARZO_2.png",
       "link": "http://verbras.com.br/produtos/textura-com-quartzo/"
@@ -103,79 +87,66 @@
   ],
   "complementos": [
     {
-      "id": 1,
       "titulo": "Massa Corrida",
       "img": "http://verbras.com.br/media/MASSA_CORRIDA_1.png",
       "link": "http://verbras.com.br/produtos/massa-corrida/"
     },
     {
-      "id": 2,
       "titulo": "Massa Acrílica",
       "img": "http://verbras.com.br/media/MASSA_ACRILICA_eFM2DJA.png",
       "link": "http://verbras.com.br/produtos/massa-acrilica/"
     },
     {
-      "id": 3,
       "titulo": "Selador Acrílico",
       "img": "http://verbras.com.br/media/xSELADOR.png.pagespeed.ic.Efe-oaaGWD.png",
       "link": "http://verbras.com.br/produtos/selador-acrilico/"
     },
     {
-      "id": 4,
       "titulo": "Telha & Cerâmica",
       "img": "http://verbras.com.br/media/xTELHA_18.png.pagespeed.ic.wyRkJpWtNo.png",
       "link": "http://verbras.com.br/produtos/impermeabilizante-telha/"
     },
     {
-      "id": 5,
       "titulo": "Verbrilho",
       "img": "http://verbras.com.br/media/xVERBRILHP_18.png.pagespeed.ic.GHyAGHAEh3.png",
       "link": "http://verbras.com.br/produtos/verbrilho/"
     },
     {
-      "id": 6,
       "titulo": "SelaFácil",
       "img": "http://verbras.com.br/media/xSELAFACIL.png.pagespeed.ic.nLLCssGV10.png",
       "link": "http://verbras.com.br/produtos/selafacil/"
     },
     {
-      "id": 7,
       "titulo": "Fundo para Galvanizados",
       "img": "http://verbras.com.br/media/xGALVANIZADOS.png.pagespeed.ic.ulIbwmBf_9.png",
       "link": "http://verbras.com.br/produtos/fundo-para-galvanizado/"
     },
     {
-      "id": 8,
       "titulo": "Fundo Branco Universal",
       "img": "http://verbras.com.br/media/FUNDO_UNIVERSAL_36L_1_2.png",
       "link": "http://verbras.com.br/produtos/fundo-branco-universal/"
     },
     {
-      "id": 9,
       "titulo": "Massa para Madeira",
       "img": "http://verbras.com.br/media/xCOMPLEMENTOS.png.pagespeed.ic.2IOcJf_l2w.png",
       "link": "http://verbras.com.br/produtos/massa-para-madeira/"
     },
     {
-      "id": 10,
       "titulo": "Fundo Preparador de Paredes",
       "img": "http://verbras.com.br/media/COMPLEMENTOS_1_LuCTssb.png",
       "link": "http://verbras.com.br/produtos/fundo-preparador-de-paredes/"
     },
     {
-      "id": 11,
       "titulo": "Fundo Branco Fosco",
       "img": "http://verbras.com.br/media/COMPLEMENTOS_1_0dMb5VT.png",
       "link": "http://verbras.com.br/produtos/fundo-branco-fosco/"
     },
     {
-      "id": 12,
       "titulo": "Ferrobras",
       "img": "http://verbras.com.br/media/COMPLEMENTOS_1.png",
       "link": "http://verbras.com.br/produtos/ferrobras/"
     },
     {
-      "id": 13,
       "titulo": "Zarcão",
       "img": "http://verbras.com.br/media/COMPLEMENTOS_1_Dw6LHVR.png",
       "link": "http://verbras.com.br/produtos/zarcao/"
