@@ -89,19 +89,13 @@
       "link": "http://verbras.com.br/produtos/textura-externa/"
     },
     {
-      "id": 1,
+      "id": 3,
       "titulo": "Textura Interna",
       "img": "http://verbras.com.br/media/TEXTURA_INTERNA_1_xMlQ4Tu.png",
       "link": "http://verbras.com.br/produtos/textura-interna/"
     },
     {
-      "id": 3,
-      "titulo": "Textura Nobre",
-      "img": "http://verbras.com.br/media/TEXTURA_NOBRE_2_iXlOd1j.png",
-      "link": "http://verbras.com.br/produtos/textura-nobre/"
-    },
-    {
-      "id": 1,
+      "id": 4,
       "titulo": "Textura com Quartzo",
       "img": "http://verbras.com.br/media/TEXTURA_QUARZO_2.png",
       "link": "http://verbras.com.br/produtos/textura-com-quartzo/"
